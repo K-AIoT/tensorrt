@@ -1,0 +1,21 @@
+# Combined binaries and libraries
+/build 
+/cmake 
+/samples
+/__pycache__
+
+
+# Excdisting .wts generated file 
+yolov5s.wts
+
+
+# Different files
+calibrator.cpp
+calibrator.h
+CMakeLists.txt
+common.hpp
+cuda_utils.h
+logging.h
+macros.h
+utils.h
+yololayer.cu
