@@ -2,7 +2,7 @@
 # encoding: utf-8
 import cv2 as cv
 from yolov5_trt import YoLov5TRT
-file_yaml = 'coco.yaml'
+file_yaml = 'digital_number.yaml'
 
 if __name__ == "__main__":
     capture = cv.VideoCapture(0)
